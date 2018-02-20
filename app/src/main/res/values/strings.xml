@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExIntentImplicita</string>
+    <string name="ma_btn_navegador">Navegador</string>
+    <string name="ma_et_url">URL</string>
+    <string name="ma_btn_discar" />
+    <string name="ma_btn_discar1">Discar</string>
+    <string name="ma_et_numero">D</string>
+</resources>
